@@ -4,7 +4,7 @@ Reziume is a tool that can be used to see if your resume is ATS safe and see if 
 
 ## Website
 
-Click [here](http://reziume.amandhiraj.me/) to start.
+Click [here](https://reziu.me/) to start.
 
 ```bash
 PDF FILES ONLY
